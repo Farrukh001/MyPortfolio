@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="420" src="https://api.daily.dev/devcards/2826d2b507b644f7a861d862f41754e1.png?r=uve"  />
+  <img height="420" src="https://api.daily.dev/devcards/v2/RLSK1kSGshs9I6CtD14Zp.png?type=wide&r=u1b"  />
 </div>
-
 ###
 
 <h1 align="center">Hi 👋, I'm Farrukh Rasool</h1>
@@ -50,16 +49,6 @@
   <img src="https://img.shields.io/badge/Objective C-DD0031?logo=objectivec&logoColor=white&style=for-the-badge" height="40" alt="objective c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/iOS-512BD4?ogo=ios&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"/>
-</div>
-
-###
-
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mfurqanliaqat&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
