@@ -1,25 +1,6 @@
-<div align="center">
-  <img height="420" src="https://api.daily.dev/devcards/v2/RLSK1kSGshs9I6CtD14Zp.png?type=wide&r=u1b"  />
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Farrukh Rasool</h1>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/farrukh-rasool-8487971aa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-  <a href="mailto::farrukhrasool65@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
-  </a>
-  <a href="https://esuedpu99dmr4osl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="devto logo"  />
-  </a>
-</div>
-
-###
+## Software Engineer
 
 <h2 align="left">🧑🏻‍💻 About Me</h2>
 
@@ -54,5 +35,22 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mfurqanliaqat/mfurqanliaqat/output/snake.svg" alt="Snake animation" />
+
+###
+
+## 🤝🏻 &nbsp;Connect with Me
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/farrukh-rasool-8487971aa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="mailto::farrukhrasool65@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  </a>
+  <a href="https://esuedpu99dmr4osl.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="devto logo"  />
+  </a>
+</div>
 
 ###
