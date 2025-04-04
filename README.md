@@ -1,7 +1,7 @@
 <div align="center">
   <img height="420" src="https://api.daily.dev/devcards/v2/RLSK1kSGshs9I6CtD14Zp.png?type=wide&r=u1b"  />
 </div>
-###
+
 
 <h1 align="center">Hi 👋, I'm Farrukh Rasool</h1>
 
